@@ -70,23 +70,7 @@ SMART ATTENDANCE SYSTEM
 2. View Attendance
 3. Exit
 ```
-
----
-
-## 🎓 Simple Viva Explanation
-
-> This project stores student attendance using Python file handling. It records date and time automatically and avoids duplicate entries.
-
----
-
-## 🚀 Future Improvements (Optional)
-
-* Add login system
-* Add GUI (window-based app)
-* Save data in Excel or database
-
----
-
 ## ✅ Conclusion
+
 
 This is a **beginner-friendly and easy-to-understand Python project** that helps learn real-world programming concepts.

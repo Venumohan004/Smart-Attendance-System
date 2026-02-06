@@ -32,7 +32,7 @@ Smart_Attendance_System/
 └── README.md       → project explanation
 ```
  
-## ▶️ How to Run (Very Simple)
+## ▶️ How to Run
 
 1. Open the project folder
 2. Run this command:
@@ -43,7 +43,7 @@ python attendance.py
 
 ---
 
-## 🔁 How the Program Works (Easy Steps)
+## 🔁 How the Program Works :
 
 1. Program shows a menu
 2. User chooses an option
